@@ -1,6 +1,7 @@
 import os
 import shutil
-##
+## ##
+
 source_dir = r'C:\Users\Public\Amit\my_persnol\data'
 desination_dir = r'C:\Users\Public\Amit\my_persnol\duplicate'
 
